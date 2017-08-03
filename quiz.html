@@ -1,0 +1,101 @@
+<section class="inside col-md-8 col-md-offset-2" ng-show="inProgress">
+	<div ng-hide="hideProgress" class="progress">
+	  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: {{completed_percentage}}%;">
+	    <span class="sr-only">{{completed_percentage}}% completado</span>
+	  </div>
+	</div>
+	<div ng-show="!quizOver">
+
+		<div class="row questions" ng-repeat="question in questions">
+			<div class="row">
+				<h3 id="question_{{question.id}}">{{question.id + 1}}. {{question.question}}</h3>
+			</div>
+
+			<div class="row options">
+				<ul id="options_{{question.id}}">
+					<div class="col-sm-2" ng-repeat="option in options">
+						<li>
+							<input type="radio" class="answers" id="{{question.id}}_{{option}}" name="answer_{{question.id}}" value="{{option}}">
+							<label for="{{question.id}}_{{option}}">
+								{{option}}
+							</label>
+							<div class="check"><div class="inside"></div></div>
+						</li>
+					</div>
+				</ul>
+			</div>
+		</div>
+
+		<div class="action">
+			<button ng-click="checkAnswer()" class="btn btn-primary btn-lg">Próximas perguntas</button>
+		</div>
+	</div>
+
+	<div class="results" ng-show="quizOver">
+		<div class="row">
+			<div class="col-md-5">
+				<canvas id="main-chart"></canvas>
+			</div>
+			<div class="col-md-7">
+				<h3>Suas Inteligências:</h3>
+				<p>Habilidade de pensar de forma objetiva, conceitual e abstrata, além da capacidade em discernir padrões lógicos ou numéricos.
+					 Habilidade em perceber com precisão o mundo através de imagens. Sensibilidade à cor, forma, configuração e espaço. Habilidade em representar graficamente ideias visuais.
+					 Habilidade em detectar e responder adequadamente aos humores, motivações e desejos dos outros. Capta e interpreta o sentimento do outro facilmente.
+				</p>
+			</div>
+    </div>
+
+		<div id="courses">
+
+			<h3>Veja os cursos mais compatíveis</h3>
+
+			<div class="row" ng-repeat="course in courses" emit-last-repeater-element>
+				<hr>
+				<div class="col-md-7">
+					<div class="">
+
+					</div><h4>{{course.name}} | <a href="https://querobolsa.com.br/cursos-e-faculdades/{{course.slug}}/todos" style="fontsize" >Ver cursos na minha região ></a></h4>
+					<p>Área: {{course.area}}</p>
+					<p>{{course.description}}</p>
+					<a href="https://querobolsa.com.br/cursos-e-faculdades/{{course.slug}}" target="_blank">Quero saber mais</a>
+				</div>
+				<div class="col-md-5">
+					<div id="chart-{{course.id}}" class="cptb-bar"></div>
+				</div>
+			</div>
+		</div>
+
+		<hr>
+
+		<p ng-show="!shared" class="advice text-center"><b>Compartilhe seu resultado</b></p>
+		<p ng-show="shared" class="advice text-center"><b>Acesse <a href="http://" target="_blank"></a> e use o cupom QUIZRD20 para ter 20% de desconto na compra de qualquer curso.</b></p>
+
+		<p class="text-center">
+			<button ng-click="shareFacebook()" class="btn btn-default btn-lg"><i class="fa fa-facebook"></i> Facebook</button>
+			<button ng-click="shareTwitter()" class="btn btn-default btn-lg"><i class="fa fa-twitter"></i> Twitter</button>
+			<button ng-click="shareLinkedIn()" class="btn btn-default btn-lg"><i class="fa fa-linkedin"></i> LinkedIn</button>
+		</p>
+
+
+	</div>
+</section>
+<section class="intro col-md-8 col-md-offset-2" ng-show="!inProgress && signed">
+	<h2>Instruções</h2>
+	<h3>Para cada frase, escolha um valor entre 1 e 5, sendo 1 para frases que não tem muita relação com seu perfil e 5 quando ela é a sua cara.</h3>
+	<p class="text-center">
+		<!--<button id="startQuiz" class="btn btn-primary btn-block btn-lg" ng-disabled="!name || !email" ng-click="start()"> Começar! </button>-->
+		<button id="understood-button" class="btn btn-primary btn-block btn-lg" ng-click="explained()"> Entendi! </button>
+	</p>
+</section>
+<section class="intro col-md-8 col-md-offset-2" ng-show="!signed">
+	<img alt="Quiz" src="images/quiz.png" class="img-responsive hidden-xs">
+	<h2>Teste Vocacional</h2>
+	<h3>Seja bem vindo! Vamos te ajudar a encontrar cursos com seu perfil.</h3>
+	<p>Antes de começar, queremos saber seu nome email.</p>
+	<input type="text" class="form-control input-lg" ng-model="name" placeholder="Nome">
+	<input type="email" class="form-control input-lg" ng-model="email" placeholder="Email">
+	<p class="text-center">
+		<!--<button id="startQuiz" class="btn btn-primary btn-block btn-lg" ng-disabled="!name || !email" ng-click="start()"> Começar! </button>-->
+		<button id="start-quiz" class="btn btn-primary btn-block btn-lg" ng-click="start()"> Começar! </button>
+	</p>
+</section>

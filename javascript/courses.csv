@@ -1,0 +1,101 @@
+﻿name;slug;area;great_area;Naturalista;Musical;Lógico-matemática;Existencial;Interpessoal;Cinética;Linguística;Intrapessoal;Espacial
+Administração;administracao;Ciências sociais aplicadas;Humanas;1;1;8;1;10;1;7;7;1
+Pedagogia;pedagogia;Ciências humanas;Humanas;7;1;6;8;10;1;9;8;6
+Ciências Contábeis;ciencias-contabeis;Ciências sociais aplicadas;Humanas;1;1;9;1;9;1;6;2;1
+Direito;direito;Ciências sociais aplicadas;Humanas;1;1;8;1;10;1;9;7;1
+Educação Física;educacao-fisica;Ciências da saúde;Biológicas;1;1;6;1;6;10;6;2;4
+Enfermagem;enfermagem;Ciências da saúde;Biológicas;10;1;3;1;6;1;4;2;1
+Engenharia Civil;engenharia-civil;Engenharias;Exatas;1;1;7;1;3;1;1;1;10
+Logística;logistica;Gestão e Negócios;Humanas;1;1;3;1;3;1;6;1;3
+Fisioterapia;fisioterapia;Ciências da saúde;Biológicas;7;1;2;1;3;8;6;2;4
+Serviço Social;servico-social;Ciências sociais aplicadas;Humanas;1;1;0;6;7;1;6;2;1
+Psicologia;psicologia;Ciências humanas;Biológicas;6;1;0;7;10;1;6;5;1
+Nutrição;nutricao;Ciências da saúde;Biológicas;9;1;4;1;7;1;6;5;1
+Análise e Desenvolvimento de Sistemas;analise-e-desenvolvimento-de-sistemas;Informação e Comunicação;Exatas;1;1;10;1;1;1;7;1;1
+Marketing;marketing;Gestão e Negócios;Humanas;1;1;6;1;10;1;6;5;1
+Farmácia;farmacia;Ciências da saúde;Biológicas;9;1;7;1;5;1;6;3;1
+Gestão Financeira;gestao-financeira;Gestão e Negócios;Humanas;1;1;10;1;6;1;6;5;1
+Arquitetura e Urbanismo;arquitetura-e-urbanismo;Ciências sociais aplicadas;Exatas;1;1;8;1;6;1;6;1;10
+Processos Gerenciais;processos-gerenciais;Gestão e Negócios;Humanas;1;1;7;1;8;1;6;1;1
+Biomedicina;biomedicina;Ciências biológicas;Biológicas;8;1;7;1;6;1;5;1;1
+Engenharia de Produção;engenharia-de-producao;Engenharias;Exatas;1;1;10;1;8;1;5;1;6
+Sistemas de Informação;sistemas-de-informacao;Ciências exatas e da terra;Exatas;1;1;9;1;1;1;6;1;1
+Ciências Biológicas;ciencias-biologicas;Ciências biológicas;Biológicas;10;1;5;1;6;1;5;1;1
+Gestão Comercial;gestao-comercial;Gestão e Negócios;Humanas;1;1;6;1;8;1;6;1;1
+História;historia;Ciências humanas;Humanas;1;1;5;5;8;1;7;1;1
+Engenharia Mecânica;engenharia-mecanica;Engenharias;Exatas;1;1;10;1;5;1;5;1;8
+Publicidade e Propaganda;publicidade-e-propaganda;Ciências humanas;Humanas;1;1;5;1;9;1;6;1;1
+Matemática;matematica;Ciências exatas e da terra;Exatas;1;1;10;1;5;1;5;1;6
+Ciência da Computação;ciencia-da-computacao;Ciências Exatas e da Terra;Exatas;1;1;10;1;5;1;7;1;1
+Gestão Pública;gestao-publica;Administração e Negócios;Humanas;1;1;5;1;8;1;6;1;6
+Gestão Ambiental;gestao-ambiental;Ambiente e saúde;Humanas;8;1;6;1;6;1;5;1;6
+Gestão Hospitalar;gestao-hospitalar;Ambiente e saúde;Humanas;1;1;6;1;8;1;5;1;5
+Jornalismo;jornalismo;Ciências sociais aplicadas;Humanas;1;1;1;1;9;1;8;1;1
+Engenharia Elétrica;engenharia-eletrica;Engenharias;Exatas;1;1;10;1;5;1;5;1;5
+Radiologia;radiologia;Ambiente e saúde;Biológicas;8;1;6;1;5;1;5;1;5
+Comércio Exterior;comercio-exterior;Ciências sociais aplicadas;Humanas;1;1;1;1;9;1;8;1;1
+Recursos Humanos;recursos-humanos;Administração e Negócios;Humanas;1;1;5;5;9;1;6;6;1
+Design Gráfico;design-grafico;Ciências sociais aplicadas;Humanas;1;1;6;1;5;1;5;1;9
+Gastronomia;gastronomia;Ciências sociais aplicadas;Humanas;6;1;5;1;6;1;1;1;6
+Negócios Imobiliários;negocios-imobiliarios;Administração e Negócios;Humanas;1;1;5;1;8;1;6;1;1
+Redes de Computadores;redes-de-computadores;Informação e comunicação;Exatas;1;1;9;1;5;1;5;1;5
+Design de Interiores;design-de-interiores;Ciências sociais aplicadas;Humanas;1;1;7;1;5;1;5;1;9
+Engenharia de Segurança do Trabalho;engenharia-de-seguranca-do-trabalho;Engenharia e Produção;Exatas;1;1;10;1;7;1;5;1;6
+Gestão da Qualidade;gestao-da-qualidade;Gestão e Negócios;Humanas;1;1;7;1;6;1;5;1;1
+Teologia;teologia;Ciências humanas;Humanas;1;1;5;9;6;1;6;7;1
+Engenharia de Controle e Automação;engenharia-de-controle-e-automacao;Engenharia e Produção;Exatas;1;1;10;1;5;1;5;1;6
+Ciências Econômicas;ciencias-economicas;Ciências sociais aplicadas;Humanas;1;1;9;1;7;1;5;1;1
+Turismo;turismo;Ciências sociais aplicadas;Humanas;1;1;5;1;8;1;5;1;6
+Design de Moda;design-de-moda;Linguística, letras e artes;Humanas;1;1;5;1;6;1;5;1;9
+Segurança do Trabalho;seguranca-do-trabalho;Ciências Humanas e Sociais;Humanas;1;1;7;1;7;1;5;1;1
+Engenharia Ambiental;engenharia-ambiental;Engenharias;Exatas;7;1;9;1;5;1;5;1;6
+Letras;letras;Linguagens e arte;Humanas;1;1;5;1;7;1;9;1;1
+Odontologia;odontologia;Ciências da saúde;Biológicas;7;1;6;1;6;1;5;1;6
+Relações Internacionais;relacoes-internacionais;Ciências humanas;Humanas;1;1;5;1;9;1;8;1;1
+Automação Industrial;automacao-industrial;Controle e processos industriais;Exatas;1;1;10;1;5;1;1;1;7
+Fotografia;fotografia;Artes e Design;Humanas;1;1;6;1;7;1;5;1;8
+Jogos Digitais;jogos-digitais;Artes e Design;Humanas;1;1;8;1;5;1;6;1;7
+Medicina Veterinária;medicina-veterinaria;Ciências agrárias;Biológicas;9;1;7;1;6;1;5;1;1
+Química;quimica;Ciências Exatas e Informática;Exatas;7;1;9;1;5;1;6;1;5
+Gestão de Projetos;gestao-de-projetos;Administração e Negócios;Humanas;1;1;8;1;7;1;5;1;1
+Banco de Dados;banco-de-dados;Ciências Exatas e Informática;Exatas;1;1;10;1;5;1;6;1;1
+Fonoaudiologia;fonoaudiologia;Ciências da saúde;Biológicas;1;1;6;1;7;1;8;1;1
+Artes Visuais;artes-visuais;Ciências exatas e da terra;Humanas;1;1;5;1;7;1;5;1;9
+Estética;estetica;Ambiente e saúde;Biológicas;1;1;1;1;7;1;5;1;8
+Engenharia Química;engenharia-quimica;Engenharia e Produção;Exatas;7;1;9;1;5;1;5;1;6
+Geografia;geografia;Ciências sociais aplicadas;Humanas;7;1;5;1;6;1;6;1;7
+Psicopedagogia;psicopedagogia;Ciências Humanas e Sociais;Humanas;1;1;5;5;9;1;7;1;5
+Gestão da Produção Industrial;gestao-da-producao-industrial;Controle e Processos Industriais;Humanas;1;1;9;1;6;1;5;1;1
+Agronegócio;agronegocio;Administração e Negócios;Humanas;7;1;5;1;1;1;5;1;5
+Libras;libras;Ciências Humanas e Sociais;Humanas;1;1;6;1;7;1;10;1;1
+Engenharia de Software;engenharia-de-software;Engenharia e Produção;Exatas;1;1;10;1;1;1;7;1;5
+Liderança e Coaching;lideranca-e-coaching;Administração e Negócios;Humanas;1;1;5;8;9;1;6;5;1
+Física;fisica;Ciências Exatas e Informática;Exatas;6;1;10;1;5;1;5;1;6
+Filosofia;filosofia;Ciências Humanas e Sociais;Humanas;1;1;1;10;6;1;8;7;1
+Produção Multimídia;producao-multimidia;Ciências Exatas e Informática;Humanas;1;6;5;1;7;1;5;1;5
+Design;design;Artes e Design;Humanas;1;1;6;1;6;1;5;1;9
+Relações Públicas;relacoes-publicas;Ciências Humanas e Sociais;Humanas;1;1;5;1;9;1;6;1;1
+Sistemas para Internet;sistemas-para-internet;Ciências Exatas e Informática;Exatas;1;1;10;1;5;1;6;1;1
+Informática;informatica;Ciências Exatas e Informática;Exatas;1;1;9;1;5;1;6;1;1
+Rádio e TV;radio-e-tv;Ciências Exatas e Informática;Humanas;1;1;5;1;10;1;6;1;1
+Acupuntura;acupuntura;Saúde;Biológicas;1;1;5;1;6;5;5;1;7
+Secretariado;secretariado;Ciências Exatas e Informática;Humanas;1;1;6;1;8;1;6;1;1
+Eventos;eventos;Ciências Exatas e Informática;Humanas;1;5;5;1;9;1;6;1;6
+Agronomia;agronomia;Meio Ambiente e Ciências Agrárias;Biológicas;8;1;6;1;5;1;5;1;5
+Gestão Portuária;gestao-portuaria;Administração e Negócios;Humanas;1;1;7;1;7;1;6;1;7
+Construção de Edifícios;construcao-de-edificios;Engenharia e Produção;Exatas;1;1;8;1;6;1;5;1;10
+Música;musica;Artes e Design;Humanas;1;10;6;1;6;1;7;1;1
+Educação Especial;educacao-especial;Ciências Humanas e Sociais;Humanas;6;1;7;7;9;1;7;5;6
+Hotelaria;hotelaria;Ciências Humanas e Sociais;Humanas;1;1;6;1;9;1;6;1;1
+Gestão de Seguros;gestao-de-seguros;Administração e Negócios;Humanas;1;1;9;1;7;1;6;1;1
+Mecatrônica;mecatronica;Engenharia e Produção;Exatas;1;1;10;1;5;1;5;1;6
+Engenharia Agronômica;engenharia-agronomica;Meio Ambiente e Ciências Agrárias;Biológicas;9;1;9;1;5;1;5;1;7
+Tecnologia da Informação;tecnologia-da-informacao;Ciências exatas e da terra;Exatas;1;1;10;1;6;1;7;1;1
+Ciências Sociais;ciencias-sociais;Ciências Humanas e Sociais;Humanas;1;1;6;7;10;1;7;6;1
+Engenharia de Computação;engenharia-de-computacao;Engenharia e Produção;Exatas;1;1;10;1;5;1;8;1;1
+Engenharia Aeronáutica;engenharia-aeronautica;Engenharia e Produção;Exatas;1;1;10;1;5;1;5;1;7
+Engenharia Mecatrônica;engenharia-mecatronica;Engenharia e Produção;Exatas;1;1;10;1;5;1;5;1;7
+Paisagismo;paisagismo;Artes e Design;Humanas;6;1;6;1;6;1;5;1;9
+Cinema;cinema;Ciências Exatas e Informática;Humanas;1;6;5;6;9;1;8;5;1
+Engenharia Eletrônica;engenharia-eletronica;Engenharia e Produção;Exatas;1;1;10;1;5;1;6;1;7
+Moda;moda;Artes e Design;Humanas;1;1;6;1;9;1;6;5;10
